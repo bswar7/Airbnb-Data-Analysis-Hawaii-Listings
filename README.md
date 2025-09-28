@@ -43,7 +43,7 @@ Being close to the beach and main attractions helps hosts earn more inco
 
 
 ## Dataset
-The dataset is taken from the [Bahrain Open Data Portal:](https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=import)
+The dataset is taken from the [Inside Airbnb:](https://insideairbnb.com/get-the-data/)
 
 
 
