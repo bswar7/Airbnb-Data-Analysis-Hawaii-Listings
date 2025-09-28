@@ -1,6 +1,6 @@
 ### Airbnb-Data-Analysis-Hawaii-Listings
 
-[AirBNB-Hawaii Listing]([_linkgoogledrive](https://drive.google.com/drive/folders/1N9jpiCu6U_RsXxNny0x903uRiXYvx5sz?usp=drive_link))
+[AirBNB-Hawaii Listing](https://drive.google.com/drive/folders/1N9jpiCu6U_RsXxNny0x903uRiXYvx5sz?usp=drive_link)
 
 <img width="595" height="330" alt="Screenshot 2025-09-28 124924" src="https://github.com/user-attachments/assets/6b32a509-641b-46c9-b611-26acbe48c550" />
 
